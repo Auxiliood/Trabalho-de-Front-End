@@ -1,0 +1,90 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "nome": "Ferrari SF90 Stradale",
+            "image": "https://assets.auto.cl/nvi/xvkNvquenrpG35WTb39T9B.png",
+            "preco": 507500
+        },
+        {
+            "id": 2,
+            "nome": "Lamborghini Aventador SVJ",
+            "image": "https://png.pngtree.com/png-vector/20220721/ourmid/pngtree-car-lamborghini-png-image_6032223.png",
+            "rating": 9.7,
+            "preco": 517770
+        },
+        {
+            "id": 3,
+            "nome": "Rolls-Royce Phantom",
+            "image": "https://dealerimages.dealereprocess.com/image/upload/c_limit,f_auto,fl_lossy,w_auto/v1/svp/dep/21rollsroyceghost/rollsroyce_21ghost_angularfront_gray",
+            "rating": 9.9,
+            "preco": 465000
+        },
+        {
+            "id": 4,
+            "nome": "Bentley Continental GT",
+            "image": "https://cache2.pakwheels.com/system/car_generation_pictures/7684/original/GT_SPEED.png?1708424604",
+            "rating": 9.5,
+            "preco": 231800
+        },
+        {
+            "id": 5,
+            "nome": "Porsche 911 Turbo S",
+            "image": "https://assets.meinauto.de/image/upload/q_auto:eco/f_auto/dpr_1.0/c_scale,h_614,w_920/v1//prod/porsche/911/7/2coupe-turbo/porsche_17911turboco7fe_angularfront.png",
+            "rating": 9.6,
+            "preco": 207000
+        },
+        {
+            "id": 6,
+            "nome": "McLaren 720S",
+            "image": "https://www.pngplay.com/wp-content/uploads/13/McLaren-720S-PNG-Photos.png",
+            "rating": 9.7,
+            "preco": 299000
+        },
+        {
+            "id": 7,
+            "nome": "Aston Martin DBS Superleggera",
+            "image": "https://www.pngplay.com/wp-content/uploads/13/Aston-Martin-DBS-Superleggera-Volante-Transparent-Background.png",
+            "rating": 9.4,
+            "preco": 316300
+        },
+        {
+            "id": 8,
+            "nome": "Mercedes-Maybach S650",
+            "image": "https://img.sm360.ca/ir/w640h390c/images/newcar/ca/2024/mercedes-benz/mercedes-maybach-classe-s/680-4matic/sedan/exteriorColors/2024_mercedes-benz_classe-s_maybach_680_032_197u.png",
+            "rating": 9.5,
+            "preco": 202550
+        },
+        {
+            "id": 9,
+            "nome": "Bugatti Chiron",
+            "image": "https://www.motortrend.com/uploads/izmo/bugatti/chiron/2021/chiron.png",
+            "rating": 9.9,
+            "preco": 3000000
+        },
+        {
+            "id": 10,
+            "nome": "BMW M8 Competition",
+            "image": "https://www.pngplay.com/wp-content/uploads/13/BMW-M8-PNG-Photos.png",
+            "rating": 9.3,
+            "preco": 130000
+        },
+        {
+            "id": 11,
+            "nome": "Audi R8 V10 Performance",
+            "image": "https://img.sm360.ca/ir/w640h390c/images/newcar/ca/2023/audi/r8-spyder/v10-performance-rear-wheel-drive/roadster/exteriorColors/2023_audi_r8-spyder_v10-performance-rwd_032_l1l1.png",
+            "rating": 9.4,
+            "preco": 196700
+        },
+        {
+            "id": 12,
+            "nome": "Maserati MC20",
+            "image": "https://di-uploads-pod44.dealerinspire.com/maseratioffortmyers/uploads/2022/05/2022-Maserati-MC20-color-Grigio-Mistero.png",
+            "rating": 9.2,
+            "preco": 210000
+        }
+    ]   
+}
+
+
+  
